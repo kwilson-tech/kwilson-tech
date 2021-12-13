@@ -1,6 +1,6 @@
 ![](https://riverofcountry.files.wordpress.com/2014/12/trineo-de-papa-noel.gif)
 
-Hello, thanks for visiting page.
+Hello, thanks for visiting my GitHub.
 
 I mainly code with Python and I love learning about Data Science/Machine Learning
 
